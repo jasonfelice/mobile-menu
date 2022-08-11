@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Portfolio
-
+![](screenshot.png)
 Portfolio webpage
 
 This webpage has two sections:
