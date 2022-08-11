@@ -1,6 +1,54 @@
-# curriculum-cr-training-mobile-menu
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Portfolio
+
+Portfolio webpage
+
+This webpage has two sections:
+1. Header
+2. Title section
+3. Portfolio section
+4. About section
+5. Contact Form
+
+## Built With
+
+- HTML
+- CSS
+- javaScript
+
+## Live Demo
+[Live Demo Link](#)
+
+To get a local copy up and running follow these simple example steps.
+- Copy this [link](https://github.com/jasonfelice/mobile-menu)
+- Open the terminal
+- Run "git clone" and paste the link
+- Open this folder in your code editor
+- Create a feature branch to work on
+- Now you can edit and make a pull request
 
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@jasonfelice](https://github.com/jasonfelice)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jake-felice)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
